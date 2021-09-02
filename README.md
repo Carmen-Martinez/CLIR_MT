@@ -1,1 +1,1 @@
-# Final_Project
+# Cross-Language Information Retreival (CLIR) system
